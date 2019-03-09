@@ -8,7 +8,7 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions( 
-		        features = { "src/test/resources/features/Acoes/CadastrarContas.feature" }, 
+		        features = { "src/test/resources/features/Acoes/AprendendoCucumber.feature" }, 
 		        glue = "com.br.sergio.cucumber.steps",
 				plugin= "pretty", 
 				tags = "~@ignore",
