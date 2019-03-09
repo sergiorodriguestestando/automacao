@@ -3,6 +3,7 @@ package com.br.sergio.cucumber.entidades;
 public class Filme {
 	int estoque;
 	int preco;
+//teste
 
 	public void setEstoque(int arg1) {
 		// TODO Auto-generated method stub
